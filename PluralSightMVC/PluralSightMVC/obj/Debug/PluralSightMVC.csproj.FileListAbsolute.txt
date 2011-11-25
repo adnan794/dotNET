@@ -1,0 +1,7 @@
+c:\users\ababar.amaze\documents\visual studio 2010\Projects\PluralSightMVC\PluralSightMVC\bin\PluralSightMVC.dll
+c:\users\ababar.amaze\documents\visual studio 2010\Projects\PluralSightMVC\PluralSightMVC\bin\PluralSightMVC.pdb
+c:\users\ababar.amaze\documents\visual studio 2010\Projects\PluralSightMVC\PluralSightMVC\bin\EntityFramework.dll
+c:\users\ababar.amaze\documents\visual studio 2010\Projects\PluralSightMVC\PluralSightMVC\bin\EntityFramework.xml
+c:\users\ababar.amaze\documents\visual studio 2010\Projects\PluralSightMVC\PluralSightMVC\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ababar.amaze\documents\visual studio 2010\Projects\PluralSightMVC\PluralSightMVC\obj\Debug\PluralSightMVC.dll
+c:\users\ababar.amaze\documents\visual studio 2010\Projects\PluralSightMVC\PluralSightMVC\obj\Debug\PluralSightMVC.pdb
