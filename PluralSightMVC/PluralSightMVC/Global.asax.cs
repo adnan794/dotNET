@@ -21,7 +21,13 @@ namespace PluralSightMVC
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
-            
+            routes.MapRoute(
+                "Cuisine",
+                "cuisine/{name}",
+                new { controller = "Cuisine", action="Search", name = UrlParameter.Optional}
+
+                );
+
             
             routes.MapRoute(
                 "Default", // Route name

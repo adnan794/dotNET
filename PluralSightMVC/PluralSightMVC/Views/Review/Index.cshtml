@@ -1,0 +1,52 @@
+﻿@model IEnumerable<PluralSightMVC.Models.ResturantReview>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Resturant Reviews</h2>
+
+
+@foreach (var item in Model)
+{
+    <div>
+    <p><strong>Id:</strong> @item.id <br /><strong>Resturant Name:</strong> @item.Name <br />
+    <strong>Rating:@item.Rating</strong>
+    </p>
+    <p style="text-align:right">@Html.ActionLink("Edit", "Edit", new { id = @item.id })</p>
+    
+    </div>
+}
+
+
+
+
+@*<table>
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            Rating
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Rating)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>
+*@

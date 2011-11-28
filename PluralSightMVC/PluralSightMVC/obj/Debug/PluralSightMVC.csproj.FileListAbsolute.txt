@@ -5,3 +5,10 @@ c:\users\ababar.amaze\documents\visual studio 2010\Projects\PluralSightMVC\Plura
 c:\users\ababar.amaze\documents\visual studio 2010\Projects\PluralSightMVC\PluralSightMVC\obj\Debug\ResolveAssemblyReference.cache
 c:\users\ababar.amaze\documents\visual studio 2010\Projects\PluralSightMVC\PluralSightMVC\obj\Debug\PluralSightMVC.dll
 c:\users\ababar.amaze\documents\visual studio 2010\Projects\PluralSightMVC\PluralSightMVC\obj\Debug\PluralSightMVC.pdb
+C:\GitSourceControlled\dotNET\PluralSightMVC\PluralSightMVC\bin\PluralSightMVC.dll
+C:\GitSourceControlled\dotNET\PluralSightMVC\PluralSightMVC\bin\PluralSightMVC.pdb
+C:\GitSourceControlled\dotNET\PluralSightMVC\PluralSightMVC\bin\EntityFramework.dll
+C:\GitSourceControlled\dotNET\PluralSightMVC\PluralSightMVC\bin\EntityFramework.xml
+C:\GitSourceControlled\dotNET\PluralSightMVC\PluralSightMVC\obj\Debug\ResolveAssemblyReference.cache
+C:\GitSourceControlled\dotNET\PluralSightMVC\PluralSightMVC\obj\Debug\PluralSightMVC.dll
+C:\GitSourceControlled\dotNET\PluralSightMVC\PluralSightMVC\obj\Debug\PluralSightMVC.pdb
